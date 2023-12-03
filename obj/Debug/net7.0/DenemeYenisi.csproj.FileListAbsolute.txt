@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\bin\Debug\net7.0\DenemeYenisi.exe
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\bin\Debug\net7.0\DenemeYenisi.deps.json
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\bin\Debug\net7.0\DenemeYenisi.runtimeconfig.json
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\bin\Debug\net7.0\DenemeYenisi.dll
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\bin\Debug\net7.0\DenemeYenisi.pdb
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.AssemblyInfo.cs
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.dll
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\refint\DenemeYenisi.dll
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.pdb
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\DenemeYenisi.genruntimeconfig.cache
+C:\Users\asus\Desktop\KadirZenginoglu\DenemeYenisi\obj\Debug\net7.0\ref\DenemeYenisi.dll
